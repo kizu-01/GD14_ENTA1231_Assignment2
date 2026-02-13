@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -326218779, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
   m_Name: StartGame
   m_EditorClassIdentifier: 
-  time: 2026-02-11 10:55:04 PM
+  time: 2026-02-13 12:07:12 AM
   version: 2.21.0
   data:
     name: settings
@@ -28,9 +28,9 @@ MonoBehaviour:
       - {fileID: 11400000, guid: a5918cef35b2c9a42814f7dfd0ece916, type: 2}
       - {fileID: 11400000, guid: 59aaa73d83c06e04e9185e996d177b51, type: 2}
       - {fileID: 11400000, guid: 0878f1d201a77fa4883f296928ecf2b9, type: 2}
-      - {fileID: 11400000, guid: 59aaa73d83c06e04e9185e996d177b51, type: 2}
-      - {fileID: 11400000, guid: 0878f1d201a77fa4883f296928ecf2b9, type: 2}
-      - {fileID: 11400000, guid: e738fb8248e01fe4b93c28fad54346f2, type: 2}
+      - {fileID: 11400000, guid: 95d7575a1181bd84d91657a8f0f67d8d, type: 2}
+      - {fileID: 11400000, guid: 3c4eaceb29a922846816e779186ee180, type: 2}
+      - {fileID: 11400000, guid: 11a8c85f9f8e0424288de749f80cdf05, type: 2}
       - {fileID: 11400000, guid: 9a0612e2f5be89b4ba2d152159142be3, type: 2}
       - {fileID: 11400000, guid: 85e29a321b3cf9e47b1418d5ea17e6fd, type: 2}
       - {fileID: 11400000, guid: 05945fa267998ef4c920944121edab2f, type: 2}
