@@ -20372,6 +20372,257 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7455867342090479789, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
+      propertyPath: serialize_setting.xmlData
+      value: '<xmldata sceneID="0" layerMask="-1" roundSpawnPosition="0" maxSpawnPerFrame="50"
+        navMeshSampleAreaMask="-1" >
+
+        <_float appearingChance="100" navMeshSampleDistance="5"
+        />
+
+        <_bool useSceneID="False" isGlobalSceneID="False" rememberCombatants="False"
+        rememberGlobal="False" useAppearingChance="False" appearingChanceFailSetID="False"
+        spawnRandom="False" useChanceSelection="False" respawnRandom="False" disableSpawned="False"
+        destroySpawned="False" spawnAtPosition="False" useNavMeshPositions="False"
+        randomWaypointOrder="False" />
+
+        <_string>
+
+        <spawnerID><![CDATA[]]></spawnerID>
+
+        </_string>
+
+        <battleArena>
+
+        <_float
+        nearestRange="20" />
+
+        <_bool setPosition="False" setRotation="False"
+        useNearest="False" />
+
+        <_asset battleComponent="0" />
+
+        <battleSystem>
+
+        <_bool
+        ownBattleSystem="False" />
+
+        </battleSystem>
+
+        </battleArena>
+
+        <variableChanges>
+
+        <_subarrays>
+
+        <variable>
+
+        </variable>
+
+        </_subarrays>
+
+        </variableChanges>
+
+        <_subarrays>
+
+        <combatant>
+
+        <0
+        quantity="1" >
+
+        <_float respawnTime="120" despawnTime="60" />
+
+        <_bool
+        spawnAll="False" randomRotation="False" setScale="False" respawn="True" despawn="False"
+        blockMoveAI="False" ownMoveAI="False" useFormation="False" />
+
+        <_floatarrays>
+
+        <scale
+        1 1 1 />
+
+        </_floatarrays>
+
+        <_asset moveAIRange="1" />
+
+        <combatant>
+
+        <_float
+        chance="100" />
+
+        <_bool useGroup="False" />
+
+        <faction>
+
+        <_string>
+
+        <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+        </_string>
+
+        <settings>
+
+        <_string>
+
+        <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+        </_string>
+
+        <_asset
+        asset="2" />
+
+        </settings>
+
+        </faction>
+
+        <group>
+
+        <_string>
+
+        <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+        </_string>
+
+        <settings>
+
+        <_string>
+
+        <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+        </_string>
+
+        <_asset
+        asset="3" />
+
+        </settings>
+
+        </group>
+
+        <member battleGroupIndex="0"
+        >
+
+        <_bool useType="False" useSubTypes="False" learnAbilities="True"
+        useStartInventory="True" useStartEquipment="True" useInitSchematic="True"
+        blockConditionalPrefabs="False" isPassive="False" passiveMustDefeat="False"
+        setBattleGroupIndex="False" useLevelZone="True" classUseLevelZone="True"
+        />
+
+        <combatant>
+
+        <_string>
+
+        <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+        </_string>
+
+        <settings>
+
+        <_string>
+
+        <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+        </_string>
+
+        <_asset
+        asset="4" />
+
+        </settings>
+
+        </combatant>
+
+        <level type="0"
+        minOffset="-5" maxOffset="5" minRandom="1" maxRandom="99" >
+
+        <_float
+        formulaInitialValue="0" />
+
+        <_bool onlyBattle="False" />
+
+        <_string>
+
+        <key><![CDATA[]]></key>
+
+        </_string>
+
+        </level>
+
+        <classLevel
+        type="0" minOffset="-5" maxOffset="5" minRandom="1" maxRandom="99" >
+
+        <_float
+        formulaInitialValue="0" />
+
+        <_bool onlyBattle="False" />
+
+        <_string>
+
+        <key><![CDATA[]]></key>
+
+        </_string>
+
+        </classLevel>
+
+        </member>
+
+        <requirement>
+
+        <_bool
+        checkDifficulty="False" />
+
+        <variableCondition needed="0" >
+
+        <_subarrays>
+
+        <variable>
+
+        </variable>
+
+        </_subarrays>
+
+        </variableCondition>
+
+        </requirement>
+
+        </combatant>
+
+        <moveAI>
+
+        <_string>
+
+        <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+        </_string>
+
+        <settings>
+
+        <_string>
+
+        <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+        </_string>
+
+        </settings>
+
+        </moveAI>
+
+        </0>
+
+        </combatant>
+
+        </_subarrays>
+
+        </xmldata>
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455867342090479789, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
+      propertyPath: serialize_setting.lookUp.assets.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455867342090479789, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
+      propertyPath: 'serialize_setting.lookUp.assets.Array.data[4]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 5461262552f75a94d9011031a2a1bb98, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25810,6 +26061,257 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7455867342090479789, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
+      propertyPath: serialize_setting.xmlData
+      value: '<xmldata sceneID="0" layerMask="-1" roundSpawnPosition="0" maxSpawnPerFrame="50"
+        navMeshSampleAreaMask="-1" >
+
+        <_float appearingChance="100" navMeshSampleDistance="5"
+        />
+
+        <_bool useSceneID="False" isGlobalSceneID="False" rememberCombatants="False"
+        rememberGlobal="False" useAppearingChance="False" appearingChanceFailSetID="False"
+        spawnRandom="False" useChanceSelection="False" respawnRandom="False" disableSpawned="False"
+        destroySpawned="False" spawnAtPosition="False" useNavMeshPositions="False"
+        randomWaypointOrder="False" />
+
+        <_string>
+
+        <spawnerID><![CDATA[]]></spawnerID>
+
+        </_string>
+
+        <battleArena>
+
+        <_float
+        nearestRange="20" />
+
+        <_bool setPosition="False" setRotation="False"
+        useNearest="False" />
+
+        <_asset battleComponent="0" />
+
+        <battleSystem>
+
+        <_bool
+        ownBattleSystem="False" />
+
+        </battleSystem>
+
+        </battleArena>
+
+        <variableChanges>
+
+        <_subarrays>
+
+        <variable>
+
+        </variable>
+
+        </_subarrays>
+
+        </variableChanges>
+
+        <_subarrays>
+
+        <combatant>
+
+        <0
+        quantity="1" >
+
+        <_float respawnTime="120" despawnTime="60" />
+
+        <_bool
+        spawnAll="False" randomRotation="False" setScale="False" respawn="True" despawn="False"
+        blockMoveAI="False" ownMoveAI="False" useFormation="False" />
+
+        <_floatarrays>
+
+        <scale
+        1 1 1 />
+
+        </_floatarrays>
+
+        <_asset moveAIRange="1" />
+
+        <combatant>
+
+        <_float
+        chance="100" />
+
+        <_bool useGroup="False" />
+
+        <faction>
+
+        <_string>
+
+        <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+        </_string>
+
+        <settings>
+
+        <_string>
+
+        <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+        </_string>
+
+        <_asset
+        asset="2" />
+
+        </settings>
+
+        </faction>
+
+        <group>
+
+        <_string>
+
+        <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+        </_string>
+
+        <settings>
+
+        <_string>
+
+        <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+        </_string>
+
+        <_asset
+        asset="3" />
+
+        </settings>
+
+        </group>
+
+        <member battleGroupIndex="0"
+        >
+
+        <_bool useType="False" useSubTypes="False" learnAbilities="True"
+        useStartInventory="True" useStartEquipment="True" useInitSchematic="True"
+        blockConditionalPrefabs="False" isPassive="False" passiveMustDefeat="False"
+        setBattleGroupIndex="False" useLevelZone="True" classUseLevelZone="True"
+        />
+
+        <combatant>
+
+        <_string>
+
+        <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+        </_string>
+
+        <settings>
+
+        <_string>
+
+        <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+        </_string>
+
+        <_asset
+        asset="4" />
+
+        </settings>
+
+        </combatant>
+
+        <level type="0"
+        minOffset="-5" maxOffset="5" minRandom="1" maxRandom="99" >
+
+        <_float
+        formulaInitialValue="0" />
+
+        <_bool onlyBattle="False" />
+
+        <_string>
+
+        <key><![CDATA[]]></key>
+
+        </_string>
+
+        </level>
+
+        <classLevel
+        type="0" minOffset="-5" maxOffset="5" minRandom="1" maxRandom="99" >
+
+        <_float
+        formulaInitialValue="0" />
+
+        <_bool onlyBattle="False" />
+
+        <_string>
+
+        <key><![CDATA[]]></key>
+
+        </_string>
+
+        </classLevel>
+
+        </member>
+
+        <requirement>
+
+        <_bool
+        checkDifficulty="False" />
+
+        <variableCondition needed="0" >
+
+        <_subarrays>
+
+        <variable>
+
+        </variable>
+
+        </_subarrays>
+
+        </variableCondition>
+
+        </requirement>
+
+        </combatant>
+
+        <moveAI>
+
+        <_string>
+
+        <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+        </_string>
+
+        <settings>
+
+        <_string>
+
+        <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+        </_string>
+
+        </settings>
+
+        </moveAI>
+
+        </0>
+
+        </combatant>
+
+        </_subarrays>
+
+        </xmldata>
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455867342090479789, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
+      propertyPath: serialize_setting.lookUp.assets.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7455867342090479789, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
+      propertyPath: 'serialize_setting.lookUp.assets.Array.data[4]'
+      value: 
+      objectReference: {fileID: 11400000, guid: d1ab0e7a7760da94dbd1c9a946e1216a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
