@@ -549,13 +549,13 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: db7c378485f427a4a9942ec8b9b711d0, type: 2}
-  - {fileID: 2100000, guid: dec54d738a1d49447a44c4c3afa351c2, type: 2}
+  - {fileID: 2100000, guid: f03e8868f13374045abab9706620ef49, type: 2}
+  - {fileID: 2100000, guid: 7fba35b6b34fdd148813ab547a957b1f, type: 2}
   - {fileID: 2100000, guid: 0c1cedd4b15466047a9ec7e210388cbc, type: 2}
-  - {fileID: 2100000, guid: 9117442d1ed0cc24882a0bd5690d8d84, type: 2}
+  - {fileID: 2100000, guid: c51938f1b2fb61744b333a22cfa5b5a4, type: 2}
   - {fileID: 2100000, guid: ea6b5e0ea51ae294f914351a20ffb5a0, type: 2}
-  - {fileID: 2100000, guid: 15c1c7658ede5b84ba2189f5b3f823c5, type: 2}
-  - {fileID: 2100000, guid: 9af9d7fb1ea9a1b4a8c33f0bd9f8b0d3, type: 2}
+  - {fileID: 2100000, guid: c6825ef5a2170a1418d00d458d50dd61, type: 2}
+  - {fileID: 2100000, guid: 3710e78e005bc104582b8db36b197d8e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
