@@ -6023,7 +6023,7 @@ MonoBehaviour:
       </_string>
 
       <settings
-      needed="0" >
+      needed="1" >
 
       <_string>
 
@@ -6065,41 +6065,12 @@ MonoBehaviour:
 
       </0>
 
-      </taskStatus>
+      <1 type="0"
+      >
 
-      </_subarrays>
+      <_bool isValid="True" questActive="True" />
 
-      </settings>
-
-      </0>
-
-      <1>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.ORKFramework.QuestGeneralCondition`1]]></type>
-
-      </_string>
-
-      <settings
-      needed="0" >
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.ORKFramework.QuestGeneralCondition`1]]></_type>
-
-      </_string>
-
-      <_subarrays>
-
-      <questStatus>
-
-      <0
-      type="1" >
-
-      <_bool isValid="True" />
-
-      <quest>
+      <task>
 
       <_string>
 
@@ -6120,17 +6091,17 @@ MonoBehaviour:
 
       </settings>
 
-      </quest>
+      </task>
 
-      </0>
+      </1>
 
-      </questStatus>
+      </taskStatus>
 
       </_subarrays>
 
       </settings>
 
-      </1>
+      </0>
 
       </condition>
 
@@ -6151,7 +6122,7 @@ MonoBehaviour:
       assets:
       - {fileID: 11400000, guid: e723e1d1b7375d64498cc4baad47b928, type: 2}
       - {fileID: 11400000, guid: d118ee68ecca56b42acaad1323b08bb7, type: 2}
-      - {fileID: 11400000, guid: ddc47078df0cdd8479bb2856fcff70bc, type: 2}
+      - {fileID: 11400000, guid: 640ac7bcdff3b3b4ea818e8b0fcce037, type: 2}
     encrypted: 0
     stringData: 
 --- !u!114 &263145936
@@ -21991,7 +21962,7 @@ MonoBehaviour:
       </_string>
 
       <settings
-      needed="0" >
+      needed="1" >
 
       <_string>
 
@@ -22033,41 +22004,12 @@ MonoBehaviour:
 
       </0>
 
-      </taskStatus>
+      <1 type="0"
+      >
 
-      </_subarrays>
+      <_bool isValid="True" questActive="True" />
 
-      </settings>
-
-      </0>
-
-      <1>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.ORKFramework.QuestGeneralCondition`1]]></type>
-
-      </_string>
-
-      <settings
-      needed="0" >
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.ORKFramework.QuestGeneralCondition`1]]></_type>
-
-      </_string>
-
-      <_subarrays>
-
-      <questStatus>
-
-      <0
-      type="2" >
-
-      <_bool isValid="True" />
-
-      <quest>
+      <task>
 
       <_string>
 
@@ -22088,76 +22030,17 @@ MonoBehaviour:
 
       </settings>
 
-      </quest>
-
-      </0>
-
-      </questStatus>
-
-      </_subarrays>
-
-      </settings>
+      </task>
 
       </1>
 
-      <2>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.ORKFramework.QuestGeneralCondition`1]]></type>
-
-      </_string>
-
-      <settings
-      needed="0" >
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.ORKFramework.QuestGeneralCondition`1]]></_type>
-
-      </_string>
-
-      <_subarrays>
-
-      <questStatus>
-
-      <0
-      type="4" >
-
-      <_bool isValid="True" />
-
-      <quest>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
-
-      </_string>
-
-      <settings>
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
-
-      </_string>
-
-      <_asset
-      asset="2" />
-
-      </settings>
-
-      </quest>
-
-      </0>
-
-      </questStatus>
+      </taskStatus>
 
       </_subarrays>
 
       </settings>
 
-      </2>
+      </0>
 
       </condition>
 
@@ -22171,8 +22054,7 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: d118ee68ecca56b42acaad1323b08bb7, type: 2}
-      - {fileID: 11400000, guid: 532249ef0f1ad7440a5afb0f819b73c3, type: 2}
-      - {fileID: 11400000, guid: ddc47078df0cdd8479bb2856fcff70bc, type: 2}
+      - {fileID: 11400000, guid: 640ac7bcdff3b3b4ea818e8b0fcce037, type: 2}
     encrypted: 0
     stringData: 
   notes: 
