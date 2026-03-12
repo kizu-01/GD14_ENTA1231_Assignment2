@@ -20,7 +20,7 @@ MonoBehaviour:
   subSection: 0
   tabIndex: -1
   scrollY: 0
-  foldoutLimit: Schematic Settings
+  foldoutLimit: 
   helpDrag: 135.33331
   subSectionDrag: 250
   tabListDrag: 200
@@ -36,8 +36,8 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
-  - {fileID: 11400000, guid: 7e3d3a6d902e47b40b1db489d0f9073d, type: 2}
   - {fileID: 11400000, guid: d4d692de61674a945ac7691c1db4742e, type: 2}
+  - {fileID: 11400000, guid: 7e3d3a6d902e47b40b1db489d0f9073d, type: 2}
   - {fileID: 11400000, guid: b44ad61b80800e4478cd30efad5e634f, type: 2}
   - {fileID: 11400000, guid: 9dd0b243de8ef6e4cb5216dcc3d4e1da, type: 2}
   - {fileID: 11400000, guid: 3f7bd5a122dae0d4dbd8299c59d13713, type: 2}
