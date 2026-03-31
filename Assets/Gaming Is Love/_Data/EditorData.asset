@@ -19,14 +19,14 @@ MonoBehaviour:
   section: 9
   subSection: 0
   tabIndex: -1
-  scrollY: 311
+  scrollY: 0
   foldoutLimit: 
-  helpDrag: 220
+  helpDrag: 135.33331
   subSectionDrag: 250
-  tabListDrag: 250
-  formulaDrag: 458
-  schematicDrag: 350
-  jumpListDrag: 250
+  tabListDrag: 200
+  formulaDrag: 200
+  schematicDrag: 308.6667
+  jumpListDrag: 116.00012
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
   createBackup: 1
@@ -36,26 +36,26 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: d4d692de61674a945ac7691c1db4742e, type: 2}
+  - {fileID: 11400000, guid: 7e3d3a6d902e47b40b1db489d0f9073d, type: 2}
+  - {fileID: 11400000, guid: b44ad61b80800e4478cd30efad5e634f, type: 2}
+  - {fileID: 11400000, guid: 9dd0b243de8ef6e4cb5216dcc3d4e1da, type: 2}
+  - {fileID: 11400000, guid: 3f7bd5a122dae0d4dbd8299c59d13713, type: 2}
+  - {fileID: 11400000, guid: 5e93022278b747d4392cdbe74c033799, type: 2}
+  - {fileID: 11400000, guid: a708426334abf08428386d8ff95a8004, type: 2}
+  - {fileID: 11400000, guid: 5375d645d9641d243950d867a05da6a1, type: 2}
+  - {fileID: 11400000, guid: cf1496d07887971498dd8fb83abf8fea, type: 2}
+  - {fileID: 11400000, guid: 897ce53b75a51904ab03803492da9019, type: 2}
+  - {fileID: 11400000, guid: fdca204b575e44b44bc72f864be6a346, type: 2}
   - {fileID: 11400000, guid: 7d017da5f23788344abef0fb2e4650d6, type: 2}
   - {fileID: 11400000, guid: cdaf444651bd526449fb9551fcae14b9, type: 2}
-  - {fileID: 11400000, guid: d67a98c5a59646b48bbd1ad2dcaa48be, type: 2}
   - {fileID: 11400000, guid: ed0dad98d18f7ea4e85079df3b4d827f, type: 2}
+  - {fileID: 11400000, guid: d67a98c5a59646b48bbd1ad2dcaa48be, type: 2}
+  - {fileID: 11400000, guid: e8d7001a7c90c174dbc59d4b6e52c9f2, type: 2}
   - {fileID: 11400000, guid: 08fcee19df5dd854b93c1d693c831e08, type: 2}
   - {fileID: 11400000, guid: 6f266cca409bcc0429ab184cb8a01050, type: 2}
   - {fileID: 11400000, guid: 95a4e5947cfe5ce479655477560ce695, type: 2}
   - {fileID: 11400000, guid: a9dbb66c7ad847b46ab2fc2ba45b3234, type: 2}
-  - {fileID: 11400000, guid: 0444145c7e4144c46b9d188515817ef6, type: 2}
-  - {fileID: 11400000, guid: df2a5fa32e416de4da6ca624efadc7ea, type: 2}
-  - {fileID: 11400000, guid: a7b1448fdccb61249951dc77d89c17ff, type: 2}
-  - {fileID: 11400000, guid: b7e2d65d80c1dd64d83f2f07ab2ea188, type: 2}
-  - {fileID: 11400000, guid: 324de2a08295a5a4f8ff25fa2acb8127, type: 2}
-  - {fileID: 11400000, guid: 8a7674f4ecd4cca45bd0509fd52c4ca8, type: 2}
-  - {fileID: 11400000, guid: 678e93c07aa929a41ae8342b0a25924a, type: 2}
-  - {fileID: 11400000, guid: b3cba4a8851169745a0a396ffc5683f5, type: 2}
-  - {fileID: 11400000, guid: 800b0dbc6ebfc6d4590b997addd8f3fa, type: 2}
-  - {fileID: 11400000, guid: fdca204b575e44b44bc72f864be6a346, type: 2}
-  - {fileID: 11400000, guid: 6016db33fac30084bb2fed113cb37ce9, type: 2}
-  - {fileID: 11400000, guid: 9907680241e54554594ce341612dbafe, type: 2}
   dialogueImportSettings:
     name: 
     byteData: 
